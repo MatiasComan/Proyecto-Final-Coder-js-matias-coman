@@ -77,7 +77,6 @@
 }
 
 a {
-    padding: 0.7rem 3rem;
     letter-spacing: var(--mainSpacing);
     font-size: 1rem;
     color: var(--mainGray);

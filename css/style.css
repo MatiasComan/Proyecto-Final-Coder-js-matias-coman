@@ -411,6 +411,7 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   padding-bottom: 75px;
+  background-image: url(../images/hero-bg.jpg);
 }
 
 .slider_section .img-box img {
@@ -423,7 +424,7 @@ a:focus {
 
 .slider_section .detail-box h1 span {
   font-size: 4rem;
-  color: #ffffff;
+  color: #000000;
   font-weight: bold;
 }
 
