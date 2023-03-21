@@ -75,7 +75,7 @@ class UI {
                     icon: 'success',
                     title: 'Producto agregado al carrito',
                     showConfirmButton: false,
-                    timer: 1500
+                    timer: 3000
                   });
                 //guardar carrito en local storage
                 Storage.saveCart(cart);
