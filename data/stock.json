@@ -3,66 +3,59 @@
         {
             "sys": { "id": "1" },
             "fields": {
-                "title": "THC capsules",
-                "price": 5000,
+                "title": "THC pildoras",
+                "price": 14500,
                 "image": { "fields": { "file": { "url": "../images/p-1.jpg" } } }
             }
         },
         {
             "sys": { "id": "2" },
             "fields": {
-                "title": "Oldy",
-                "price": 19.99,
-                "image": { "fields": { "file": { "url": "../images/p-1.jpg" } } }
+                "title": "BlueCap",
+                "price": 8000,
+                "image": { "fields": { "file": { "url": "../images/p-2.jpg" } } }
             }
         },
         {
             "sys": { "id": "3" },
             "fields": {
-                "title": "Pro",
-                "price": 49.99,
-                "image": { "fields": { "file": { "url": "../images/p-1.jpg" } } }
+                "title": "GreenCap",
+                "price": 7000,
+                "image": { "fields": { "file": { "url": "../images/p-3.jpg" } } }
             }
         },
         {
             "sys": { "id": "4" },
             "fields": {
-                "title": "Legend",
-                "price": 59.99,
-                "image": { "fields": { "file": { "url": "../images/p-1.jpg" } } }
+                "title": "PinkCap",
+                "price": 7500,
+                "image": { "fields": { "file": { "url": "../images/p-4.jpg" } } }
             }
         },
         {
             "sys": { "id": "5" },
             "fields": {
-                "title": "Homely",
-                "price": 19.99,
-                "image": { "fields": { "file": { "url": "../images/p-1.jpg" } } }
+                "title": "OrangeBlueCap",
+                "price": 7500,
+                "image": { "fields": { "file": { "url": "../images/p-5.jpg" } } }
             }
         },
         {
             "sys": { "id": "6" },
             "fields": {
-                "title": "Entrepreneur",
-                "price": 69.99,
-                "image": { "fields": { "file": { "url": "./assets/images/product-6.jpeg" } } }
-            }
-        },
-        {
-            "sys": { "id": "7" },
-            "fields": {
-                "title": "Beauty",
-                "price": 29.99,
-                "image": { "fields": { "file": { "url": "./assets/images/product-7.jpeg" } } }
-            }
-        },
-        {
-            "sys": { "id": "8" },
-            "fields": {
-                "title": "York",
-                "price": 9.99,
-                "image": { "fields": { "file": { "url": "./assets/images/product-8.jpeg" } } }
+                "title": "Bayaspirina",
+                "price": 7500,
+                "image": { "fields": { "file": { "url": "../images/p-6.jpg" } } }
             }
         }
+        
+        
+        
+        
+        
+        
+        
+        
+        
     ]
 }
