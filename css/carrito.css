@@ -250,34 +250,36 @@ a {
     font-size: 0.85rem;
     text-transform: capitalize;
     letter-spacing: var(--mainSpacing);
+    color: #ffffff;
 }
 
 .cart-item h5 {
     margin: 0.5rem 0;
     letter-spacing: var(--mainSpacing);
+    color: #ffffff;
 }
 
 .item-amount {
     text-align: center;
-    color: #0a0;
+    color: rgb(49, 226, 254);
     font-weight: 900;
 }
 
 .remove-item {
-    color: #b00;
+    color: rgb(75, 225, 255);
     font-weight: 900;
     cursor: pointer;
 }
 
 .fa-chevron-up,
 .fa-chevron-down {
-    color: #000;
+    color: #ffffff;
     cursor: pointer;
 }
 
 .cart-total {
     color: rgb(50, 168, 236);
-    text-shadow: 0px 1px 1px #3a0;
+    text-shadow: 0px 1px 1px rgb(48, 235, 245);
     font-weight: 900;
     font-size: 2.3rem;
     font-family: "Space Mono", monospace;

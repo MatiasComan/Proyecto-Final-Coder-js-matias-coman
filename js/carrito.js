@@ -70,7 +70,13 @@ class UI {
                 //conseguir producto desde productos
                 let cartItem = { ...Storage.getProducts(id), amount: 1 };
                 //añadir productos al carrito
-                cart = [...cart, cartItem];
+                cart = [...cart, cartItem]
+                Swal.fire({
+                    icon: 'success',
+                    title: 'Producto agregado al carrito',
+                    showConfirmButton: false,
+                    timer: 1500
+                  });
                 //guardar carrito en local storage
                 Storage.saveCart(cart);
                 //configurando valores del carritos
